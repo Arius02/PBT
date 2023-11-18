@@ -1,0 +1,16 @@
+# I know it's a simple project but I deal with it as a big one so I have made the file structure quite 
+    detailed so that everything is clear and detailed.
+
+# this a dummy data added to local storage for testing and demo purpose , 
+    you can remove easily it's just for tsting and better ui ux for demo.
+
+# to be sure that data will not overwrite in local storage for each render i'll use useEffect and a flag in local storage to
+    check if data exist or not and to make the changes you did in local storage.
+
+# I use MUI to make process of styling more faster and to foucs on logic and programing
+
+# The simple design was collected from the Internet and is very similar to an online store 
+    project that I am currently working on, especially the dashboard.
+
+# the README.md made by ChatGPT.
+
